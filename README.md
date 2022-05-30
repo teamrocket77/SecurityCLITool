@@ -1,6 +1,6 @@
 # SecurityCLITool
 Description of how I use the Security CLI Tool.<br>
-The security tools docs are mentioned here.[Documentation](https://ss64.com/osx/security.html)<br>
+The security tools docs are mentioned here [Documentation](https://ss64.com/osx/security.html)<br>
 The tool is native as far as I understand to MacOs.
 
 
