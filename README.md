@@ -1,7 +1,7 @@
 # SecurityCLITool
-Description of how I use the Security CLI Tool 
-The security tools docs are mentioned here [Documentation](https://ss64.com/osx/security.html)
-The tool is native as far as I understand to MacOs
+Description of how I use the Security CLI Tool.<br>
+The security tools docs are mentioned here.[Documentation](https://ss64.com/osx/security.html)<br>
+The tool is native as far as I understand to MacOs.
 
 
 ## To make a new Keychain
