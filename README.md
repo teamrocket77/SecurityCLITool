@@ -5,7 +5,7 @@ Description of how I use the Security CLI Tool
 `security create-keychain <keychain_name>.<extension>`
 
 ## To add a new password
-`security add-generic-Password -s service_name -a account_name -w password
+    security add-generic-Password -s service_name -a account_name -w password
 
 ## To find a password by service
 `security find-generic-Password -s service_name 
